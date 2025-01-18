@@ -2,7 +2,7 @@
 - 👀 I’m interested in making diy electronic devices and learning new tech on m core side.
 - 🌱 I’m currently learning my project related softwares like linux,kalilinux,arduino etc. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on the mail.
+- 📫  reach me on:- ramsai.madasu@gmail.com
 
 <!---
 Saivamshi-M/Saivamshi-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
